@@ -1,0 +1,10 @@
+code_forooshgah: 9864
+name_forooshgah: pardis
+tedad_sefareshat_tahvil_dade_shode: 3
+tedad_taghazahaye_tahvil_dade_nashode: 0
+bedehi: 2000000
+____________________
+tedad_list_forooshgah: 2
+num	tedad	code_forooshgah
+1	520	1234
+2	90	7843

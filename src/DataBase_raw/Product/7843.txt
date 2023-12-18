@@ -1,0 +1,14 @@
+code_kala: 7843
+name_kala: sos
+karkhane_tolid_konande: tabarok
+tarikhe_tolid: 2019/04/29
+modat_zaman_engheza: 730
+tedad_kharidari_shode: 90
+tedad_mojood_dar_anbar: 0
+gheymat_kharid_har_vahed: 5000
+gheymat_foroosh_har_vahed: 10000
+tedad_mavared_forookhte_shode_be_soorat_takhfifdar: 0
+____________________
+tedad_list_forooshgah: 1
+num	tedad	code_forooshgah
+1	90	9864

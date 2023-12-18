@@ -1,0 +1,5 @@
+tedad_forooshgah: 2
+____________________
+num	code_forooshgah
+1	2506
+2	9864

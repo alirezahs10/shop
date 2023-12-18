@@ -1,0 +1,9 @@
+code_forooshgah: 2506
+name_forooshgah: kosar
+tedad_sefareshat_tahvil_dade_shode: 4
+tedad_taghazahaye_tahvil_dade_nashode: 0
+bedehi: 5000
+____________________
+tedad_list_forooshgah: 1
+num	tedad	code_forooshgah
+1	310	1234
